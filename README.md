@@ -25,8 +25,8 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ jQuery/ WordPress/ PHP/ MySQL/ Respon
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hrhabibpro&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hrhabibpro)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=habibcoder)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hrhabibpro)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=habibcoder)  
 
-![Profile views](https://gpvc.arturio.dev/hrhabibpro)  
+![Profile views](https://gpvc.arturio.dev/habibcoder)  
