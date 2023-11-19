@@ -11,6 +11,7 @@ I can make any kind of website with WordPress and Coding like Blog and Magazine 
 Skills: HTML / CSS/ Bootstrap/ JavaScript/ jQuery/ WordPress/ PHP/ MySQL/ Responsive Design/ Shopify/ Wix
 
 - 🎢 Currently I'm working as a Web Developer and Project Manager at bdCalling It Ltd
+- 💻 I worked at Web Info Tech Ltd as an Executive WordPress Developer
 - 🔭 Working on Different Marketplaces 
 - 🌱 I’m currently learning PHP and JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
