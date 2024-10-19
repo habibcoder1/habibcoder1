@@ -1,4 +1,4 @@
-![WordPress Web Developer and Web Designer](https://media.licdn.com/dms/image/D5616AQG371rt4JXHWA/profile-displaybackgroundimage-shrink_350_1400/0/1686167862107?e=1706140800&v=beta&t=zoFwElNK7I1vK6yd2M7Ih79_KmRbbaUpPLZivHmUEE8)
+![WordPress Web Developer and Web Designer](https://media.licdn.com/dms/image/v2/D5616AQG371rt4JXHWA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1686167862107?e=1734566400&v=beta&t=dAB0jdS8qpBiaGIa5nUoXYh60y32VuWjz0URuqqk8lM)
 
 ## Hi there 👋, I'm HR Habib
 #### WordPress Developer | WooCommerce Expert | Front End Web Developer | Shopify | Wix
